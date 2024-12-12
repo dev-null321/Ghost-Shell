@@ -1,9 +1,5 @@
 # Ghost Shell
 
-Certainly! Here is a more polished and professional description for Ghost Shell:
-
----
-
 **Ghost Shell: A Linux Malware Dropper**
 
 Ghost Shell is a proof-of-concept (POC) malware dropper designed specifically for Linux systems. A malware dropper is a type of malicious program or software that is engineered to deliver and install other types of malware on a target system. The primary objective of a malware dropper is to evade detection and bypass security measures by employing various delivery methods, such as email attachments, malicious links, drive-by downloads, or infected software updates.
@@ -24,7 +20,3 @@ Ghost Shell is a proof-of-concept (POC) malware dropper designed specifically fo
 
 **Disclaimer:**
 This code is provided for educational purposes only. Unauthorized use of this software for malicious activities is strictly prohibited. Always obtain proper authorization before running any code that modifies system behavior or downloads and executes files.
-
----
-
-This description provides a clear and professional overview of Ghost Shell, its current capabilities, future plans, and important ethical considerations.
